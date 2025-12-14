@@ -1,6 +1,6 @@
 # ANALYTICS PLAYBOOK — UNO GLOBAL AI
 
-This playbook outlines how insights can be derived from the master dataset.
+This playbook describes how insights can be derived from the master dataset across common analytics tools. It serves as a reproducibility and design guide, not a record of executed outputs.
 
 ## Excel
 - Headcount, revenue, profit by year and region
@@ -25,3 +25,4 @@ This playbook outlines how insights can be derived from the master dataset.
 - Executive dashboards
 - Strategy timeline vs revenue
 - Talent value vs cost analysis
+
